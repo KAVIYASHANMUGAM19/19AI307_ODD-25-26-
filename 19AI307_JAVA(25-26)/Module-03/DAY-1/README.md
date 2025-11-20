@@ -58,7 +58,7 @@ Register Number: 212223040090
 ```
 
 ## SOURCE CODE:
-```JAVA
+```
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
@@ -183,6 +183,7 @@ public class GoldRateSystem {
 
 ## RESULT:
 Therefore the program successfully applies different discount rules for regular and premium customers.
+
 
 
 
